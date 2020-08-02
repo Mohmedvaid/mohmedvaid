@@ -1,4 +1,4 @@
-<img src="./heloo_world.gif" width="300">
+<img src="https://raw.githubusercontent.com/Mohmedvaid/mohmedvaid/master/heloo_world.gif" width="300">
 
 **Hi there** 👋
 
