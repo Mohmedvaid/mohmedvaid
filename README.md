@@ -14,7 +14,7 @@ My nickname is Mohmed. I'm a full stack developer and IT Professional graduated 
 
  ⚡ Fun fact: I started my career as a manual QA tester that helps me cover all possible scenarios while coding!
   
- 📫 I can be reached at mohmedvaid@gamil.com
+ 📫 I can be reached at mohmedvaid@gmail.com
  
 
 **Welcome to my profile! You can follow me if my works are of interest.**
