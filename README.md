@@ -4,7 +4,7 @@
 
 I'm a full stack web developer based in Chicago, a lot of my work is focusing on making web development easier.
 
-My nickname is Mohmed. I'm a full stack developer and IT Professional graduated from Northwestern University fullstack bootcamp. I have professional experience with JavaScript, Java, Python more. I have mastered many areas of programming, such as web development and server-side programming with efficiency.
+My nickname is Mohmed. I'm an IT Professional graduated from Northwestern University fullstack bootcamp. I have professional experience with JavaScript, Java, Python more. I have mastered many areas of programming, such as web development and server-side programming with efficiency.
 
 
 ---------
