@@ -12,7 +12,7 @@ My nickname is Mohmed. I'm an IT Professional graduated from Northwestern Univer
 
 🔭 I'm currently working at Americaneagle.com.
 
- ⚡ Fun fact: I started my career as a manual QA tester that helps me cover all possible scenarios while coding!
+ ⚡ Fun fact: I started my career as a manual QA tester!
   
  📫 I can be reached at mohmedvaid@gmail.com
  
