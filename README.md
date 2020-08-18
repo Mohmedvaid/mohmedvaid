@@ -17,6 +17,6 @@ My nickname is Mohmed. I'm an IT Professional graduated from Northwestern Univer
  📫 I can be reached at mohmedvaid@gmail.com
  
 
-**Welcome to my profile! You can follow me if my works are of interest.**
+**Following are some stats about my profile! You can follow me if my works are of interest.**
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=mohmedvaid&&show_icons=true&theme=dark&hide=stars)](https://maxbase.org)
