@@ -1,22 +1,22 @@
 <img src="https://raw.githubusercontent.com/Mohmedvaid/mohmedvaid/master/heloo_world.gif" width="300">
+👋 Hello! I'm Mohmedhusain Vaid.
 
-**Hi there** 👋
+I'm a passionate Full Stack Developer hailing from Chicago, IL. Having graduated from Northwestern University's fullstack bootcamp, I've honed my skills in JavaScript, Python, Java, and much more. Web development excites me, and I'm always on the hunt for challenges that stretch my capabilities.
 
-I'm a full stack web developer based in Chicago, a lot of my work is focusing on making web development easier.
+💼 Where I'm Making Impact:
 
-My nickname is Mohmed and my full name is Mohmedhusain Vaid. I'm an IT Professional graduated from Northwestern University fullstack bootcamp. I have professional experience with JavaScript, Java, Python more. I have mastered many areas of programming, such as web development and server-side programming with efficiency.
+Currently revolutionizing chatbot applications and improving application performance as a Software Engineer at Walgreens, Chicago, IL.
 
+Previously contributed as an Automation Engineer at Americaneagle.com, crafting robust automation frameworks with Cypress and Selenium.
 
----------
+As a Full Stack Developer on Upwork, I've assisted numerous clients, enhancing the efficiency of their web platforms and boosting sales by optimizing site load times.
 
+📌 Connect with Me:
 
-🔭 I'm currently working at Americaneagle.com.
+📧 Email: mohmedvaid@gmail.com
+🔗 LinkedIn: linkedin.com/in/mohmedvaid
+🌐 Portfolio: www.mohmedvaid.com
+📁 GitHub Projects: github.com/mohmedvaid
+🌟 Fun Fact: I embarked on my tech journey as a manual QA tester.
 
- ⚡ Fun fact: I started my career as a manual QA tester!
-  
- 📫 I can be reached at mohmedvaid@gmail.com
- 
-
-**Following are some stats about my profile! You can follow me if my works are of interest.**
-
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=mohmedvaid&&show_icons=true&theme=dark&hide=stars)](https://maxbase.org)
+💡 Let's collaborate! If you believe we can create something brilliant together, or even if you just want to say hi, drop me a mail.
