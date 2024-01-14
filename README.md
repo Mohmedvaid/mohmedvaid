@@ -15,7 +15,7 @@ As a Full Stack Developer on Upwork, I've assisted numerous clients, enhancing t
 
 📧 Email: mohmedvaid@gmail.com
 🔗 LinkedIn: linkedin.com/in/mohmedvaid
-🌐 Portfolio: www.mohmedvaid.com
+🌐 Portfolio: [mohmedvaid.github.io](https://mohmedvaid.github.io/)
 📁 GitHub Projects: github.com/mohmedvaid
 🌟 Fun Fact: I embarked on my tech journey as a manual QA tester.
 
