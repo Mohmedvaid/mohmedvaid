@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Mohmedvaid/mohmedvaid/master/heloo_world.gif" width="300">
-👋 Hello! I'm Mohmedhusain Vaid.
+👋 Hello! I'm Mohmed Vaid.
 
 I'm a passionate Full Stack Developer hailing from Chicago, IL. Having graduated from Northwestern University's fullstack bootcamp, I've honed my skills in JavaScript, Python, Linux and much more. Web development excites me, and I'm always on the hunt for challenges that stretch my capabilities.
 
